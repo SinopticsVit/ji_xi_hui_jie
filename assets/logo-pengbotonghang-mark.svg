@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 128" width="100" height="128" role="img" aria-label="PENGBOTONGHANG mark">
+  <defs>
+    <style>
+      .logo-red { fill: #E31E24; }
+      .logo-blue { fill: #0B3D91; }
+      .logo-text-en {
+        font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 8.5px;
+        font-weight: 700;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Standalone eagle mark (profile right, as on door signage) -->
+  <g transform="translate(50 52)">
+    <path class="logo-red" d="
+      M -30 -18
+      C -36 -10 -36 0 -30 8
+      L -38 14
+      C -46 6 -48 -8 -42 -22
+      C -34 -36 -18 -44 -2 -44
+      C 14 -44 28 -34 30 -20
+      C 32 -10 26 0 16 4
+      C 24 -2 28 -12 24 -20
+      C 20 -32 8 -40 -4 -38
+      C -16 -36 -26 -28 -30 -18
+      Z"/>
+
+    <path class="logo-red" d="
+      M 18 2
+      C 4 4 -10 12 -24 24
+      C -32 32 -38 40 -42 50
+      L -34 52
+      C -30 40 -24 30 -16 22
+      C -4 10 8 4 22 2
+      Z"/>
+    <path class="logo-red" d="
+      M 14 10
+      C 0 12 -14 20 -26 30
+      C -32 36 -38 46 -42 54
+      L -34 56
+      C -30 48 -24 40 -16 34
+      C -6 24 4 18 18 16
+      Z"/>
+    <path class="logo-red" d="
+      M 10 18
+      C -2 20 -14 26 -24 34
+      C -30 40 -36 48 -38 56
+      L -30 58
+      C -28 50 -22 42 -14 36
+      C -4 28 4 24 14 24
+      Z"/>
+
+    <circle fill="#FFFFFF" cx="14" cy="-16" r="3.8"/>
+  </g>
+
+  <text class="logo-text-en logo-blue" x="50" y="118" text-anchor="middle">PENGBOTONGHANG</text>
+</svg>

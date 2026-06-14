@@ -1,0 +1,11 @@
+# Sensitive — never commit
+email/
+camc sign in
+
+# Office / OS / Python noise
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
