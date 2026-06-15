@@ -1,0 +1,13 @@
+# Real credentials — never commit
+vps.local.psd1
+vps.*.local.psd1
+
+tools/plink.exe
+
+# Project SSH keys (copies of ~/.ssh/id_hostinger_rikkimortycrypt)
+ssh/id_ed25519*
+*.pem
+*.ppk
+
+*.log
+.last-run.json
